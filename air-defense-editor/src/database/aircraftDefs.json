@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f16",
+    "name": "F-16 Fighting Falcon",
+    "maxSpeed": 2400,
+    "cruiseSpeed": 900,
+    "serviceCeiling": 15000,
+    "fuelCapacity": 3200,
+    "radarDefId": "an_apg_68",
+    "engineDefId": "f100_pw_229",
+    "turnRate": 18,
+    "maxRangeSqr": 4000000,
+    "rcs": 1.2,
+    "threatScore": 80
+  },
+  {
+    "id": "rafale",
+    "name": "Dassault Rafale",
+    "maxSpeed": 2450,
+    "cruiseSpeed": 950,
+    "serviceCeiling": 15500,
+    "fuelCapacity": 4700,
+    "radarDefId": "rbe2_aa",
+    "engineDefId": "m88",
+    "turnRate": 20,
+    "maxRangeSqr": 4900000,
+    "rcs": 0.5,
+    "threatScore": 90
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "patriot",
+    "name": "Patriot Battery",
+    "radarDefId": "patriot_radar",
+    "missileDefId": "patriot_missile",
+    "engagementRangeSqr": 2500000,
+    "missileCapacity": 16,
+    "reloadTime": 600
+  },
+  {
+    "id": "s400",
+    "name": "S-400 Battery",
+    "radarDefId": "s400_radar",
+    "missileDefId": "48n6",
+    "engagementRangeSqr": 16000000,
+    "missileCapacity": 32,
+    "reloadTime": 900
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "an_apg_68",
+    "name": "AN/APG-68",
+    "maxRangeSqr": 2560000,
+    "minAltitude": 0,
+    "maxAltitude": 20000,
+    "minElevationDeg": -10,
+    "maxElevationDeg": 60,
+    "scanRate": 30,
+    "falseAlarmRate": 0.01,
+    "trackCapacity": 20
+  },
+  {
+    "id": "rbe2_aa",
+    "name": "RBE2 AESA",
+    "maxRangeSqr": 3240000,
+    "minAltitude": 0,
+    "maxAltitude": 25000,
+    "minElevationDeg": -10,
+    "maxElevationDeg": 70,
+    "scanRate": 40,
+    "falseAlarmRate": 0.005,
+    "trackCapacity": 40
+  }
+]

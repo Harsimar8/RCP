@@ -1,0 +1,22 @@
+[
+  {
+    "id": "aim120",
+    "name": "AIM-120 AMRAAM",
+    "maxSpeed": 4900,
+    "maxRangeSqr": 2250000,
+    "lethalRangeSqr": 10000,
+    "turnRate": 30,
+    "seekerProbId": "activeRadar",
+    "guidanceType": "Active Radar"
+  },
+  {
+    "id": "patriot_missile",
+    "name": "Patriot PAC-3",
+    "maxSpeed": 5000,
+    "maxRangeSqr": 2500000,
+    "lethalRangeSqr": 10000,
+    "turnRate": 35,
+    "seekerProbId": "activeRadar",
+    "guidanceType": "Command + Active Radar"
+  }
+]
